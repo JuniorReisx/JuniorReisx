@@ -5,6 +5,9 @@ FRONT-END developer
 I'm 16.
 I am front end developer, you can contact me to develop projects
 
+**Goals for 2023:** Work in Brazil or Internationally; Improve my English
+
+**Hobbies:** playing musical instruments; online games; gym
  
  
 <div style="display: inline_block"><br>
