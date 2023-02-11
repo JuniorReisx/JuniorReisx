@@ -1,8 +1,9 @@
 ##  Hi, my name is Junior Reis
 FRONT-END developer
  
+
 I'm 16.
-I am front end developer, you can contact me for any network and projects
+I am front end developer, you can contact me to develop projects
 
  
  
