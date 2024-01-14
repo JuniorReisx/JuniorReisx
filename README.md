@@ -2,7 +2,7 @@
 FRONT-END developer
  
 
-I'm 16.
+I'm 17 years.
 I am front end developer, you can contact me to develop projects
 
 **Goals for 2023:** Work in Brazil or Internationally; Improve my English
