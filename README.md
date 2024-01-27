@@ -22,8 +22,8 @@ I am front end developer, you can contact me to develop projects
 
 <div align="center" style="display: flex" flex-direction="row">
  <a src="">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReisx&layout=compact&langs_count=7&theme=blue"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=JuniorReisx&show_icons=true&theme=blue"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReisx&layout=compact&langs_count=7&theme=blue"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuniorReisx&show_icons=true&theme=blue"/>
 </div>
 
 <br>
