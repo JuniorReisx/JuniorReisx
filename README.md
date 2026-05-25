@@ -5,108 +5,56 @@
 </div> 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&duration=3000&pause=1000&color=FFFFFF&width=550&lines=Hello%2C+I'm+Junior+Reis!+%F0%9F%91%8B;Software+Engineer+%26+QA+Engineer;Fullstack+Developer+%7C+Automation+Specialist;Delivering+Quality+at+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&duration=3000&pause=1000&color=FFFFFF&width=550&lines=Hello%2C+I'm+Gil+Maik+Junior!+%F0%9F%91%8B;Fullstack+Developer+%26+Data+Analyst;Software+Engineer+%7C+Automation+Specialist;Building+Scalable+Solutions+%26+Quality+at+Scale+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer and QA Engineer** passionate about building **scalable applications** and ensuring **software quality through automation and clean architecture**.  
-With a strong foundation in **TypeScript, Node.js, and React**, I focus on delivering reliable, maintainable, and testable solutions — from backend logic to end-to-end testing pipelines.
+I’m a **Fullstack Developer and Data Analyst** passionate about building **scalable applications** and transforming **data into actionable insights**.  
+With a strong foundation in **TypeScript, Node.js, React, Java, and Python**, I focus on delivering reliable, maintainable, and testable solutions — from backend logic to data pipelines and dashboards.
 
-💡 I believe that **quality is built, not tested in** — and that great engineering happens when development and testing move together.
+💡 I believe that **quality and scalability are mindsets built into every commit and every dataset**.
 
 - 💜 Passionate about **clean code, automation, and software architecture**
-- ⚙️ Fullstack experience with **TypeScript, Node.js, React, and Next.js**
+- ⚙️ Fullstack experience with **React, Next.js, Node.js, Java, and Spring Boot**
+- 📊 Data analysis and visualization with **Python, Pandas, SQL, and Power BI**
 - 🤖 Advanced experience in **test automation** (Cypress, Playwright, Jest, Selenium)
 - 🚀 Advocate for **CI/CD, observability, and DevOps culture**
-- 🌱 Expanding skills in **Performance, Security, and Cloud Testing**
+- ☁️ Cloud experience with **AWS, Docker, and Kubernetes**
 - 🎬 Outside of tech: movies, music, and gym  
 
 ---
 
 ## 🤝 Connect with me
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://portfolio2025-fomk.vercel.app/)](https://portfolio2025-fomk.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Reis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gil-maik-junior/)](https://www.linkedin.com/in/gil-maik-junior/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://gilmaik.com.br)](https://gilmaik.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Gil%20Maik%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gil-maik-junior/)](https://www.linkedin.com/in/gil-maik-junior/)
 [![Gmail Badge](https://img.shields.io/badge/-gilmaikjunior2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmaikjunior2@gmail.com)](mailto:gilmaikjunior2@gmail.com)
 
 ---
 
-## 🧩 Core Software Engineering Stack
+## 🧩 Core Software Engineering & Data Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-
-  <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D00?style=flat-square&logo=astro&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
-
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Framer" src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
-</p>
-
----
-
-## 🧪 QA & Test Automation
-
-<p>
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white" />
-</p>
-
-## ☁️ DevOps & Cloud Tools
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
-
----
-
-## 🐧 Linux, Scripting & Automation
-
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
   <br />
-  <i>“Quality is not a phase — it’s a mindset built into every commit.”</i>  
+  <i>“Quality and scalability are not phases — they are mindsets built into every commit and every dataset.”</i>  
   <br /><br />
-  Show some ❤️ by contributing to <b>QA</b> and <b>Automation</b> projects!
+  Show some ❤️ by contributing to <b>Fullstack</b> and <b>Data</b> projects!
 </div>
-
